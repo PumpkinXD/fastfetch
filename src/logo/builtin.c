@@ -4310,7 +4310,7 @@ static const FFlogo W[] = {
     },
     // Windows11
     {
-        .names = {"Windows 11", "Windows Server 2022"},
+        .names = {"Windows 11", "Windows Server 2022", "Windows Server 2025"},
         .lines = FASTFETCH_DATATEXT_LOGO_WINDOWS_11,
         .colors = {
             FF_COLOR_FG_BLUE,
